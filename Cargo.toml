@@ -1,6 +1,6 @@
 [package]
 name = "debug-tag"
-description = "Debug-only runtime tagging"
+description = "Debug-only tagging for tracking values"
 version = "0.1.0"
 authors = ["Mike Pedersen <mike@mikepedersen.dk>"]
 edition = "2018"
